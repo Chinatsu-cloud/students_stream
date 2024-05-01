@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bf8644e-fac2-4fd3-8ffc-f3eae10b60dd" name="変更" comment="実行するとバージョンエラー？実行できず">
+    <list default="true" id="5bf8644e-fac2-4fd3-8ffc-f3eae10b60dd" name="変更" comment="説明文を直しました">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,14 +42,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "practice",
-    "onboarding.tips.debug.path": "/Users/yamamotochinatsu/Documents/intellij/animal_stream/src/main/java/org/example/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;practice&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/yamamotochinatsu/Documents/intellij/animal_stream/src/main/java/org/example/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
@@ -97,11 +98,28 @@
       <option name="project" value="LOCAL" />
       <updated>1713477554184</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="説明文を直しました">
+      <option name="closed" value="true" />
+      <created>1713819217452</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713819217452</updated>
+    </task>
+    <task id="LOCAL-00003" summary="説明文を直しました">
+      <option name="closed" value="true" />
+      <created>1713819247504</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713819247504</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="実行するとバージョンエラー？実行できず" />
-    <option name="LAST_COMMIT_MESSAGE" value="実行するとバージョンエラー？実行できず" />
+    <MESSAGE value="説明文を直しました" />
+    <option name="LAST_COMMIT_MESSAGE" value="説明文を直しました" />
   </component>
 </project>

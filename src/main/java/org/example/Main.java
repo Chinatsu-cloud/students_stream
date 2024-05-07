@@ -13,10 +13,10 @@ public class Main {
         studentsList.add(new Students("Hashimoto","July",5));
         studentsList.add(new Students("Mouri","March",6));
 
-        //誕生日が4文字以下の生徒を表示する
+        //誕生日がMから始まる生徒を大文字で表示する
         studentsList.stream()
                 .filter(students -> students.getBirthday().startsWith("M"))//Mから始まる誕生日の人
                 .map(students -> students.getName().toUpperCase())
-                .forEach(students -> System.out.println());
+                .forEach(students -> System.out.println(students));
     }
 }

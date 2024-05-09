@@ -17,6 +17,6 @@ public class Main {
         studentsList.stream()
                 .filter(students -> students.getBirthday().startsWith("M"))//Mから始まる誕生日の人
                 .map(students -> students.getName().toUpperCase())
-                .forEach(students -> System.out.println(students));
+                .forEach(students -> System.out.println(students));//出力するものを入力しました
     }
 }
